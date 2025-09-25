@@ -26,7 +26,7 @@
     {
         "repository": "linux-insides",
         "full_repository_name": "0xAX\/linux-insides",
-        "description": "A book-in-progress about the Linux kernel and its insides.",
+        "description": "A little bit about a linux kernel",
         "creator": "0xAX"
     }
 ]
